@@ -1,0 +1,11 @@
+UNISWAP V3 POOL DATA
+-----------------------------
+Network: Ethereum Mainnet
+Pool: USDC/WETH
+Pool Address: 0x88e6A0c2dDD26FEEb64F039a2c41296FcB3f5640
+Fee Tier: 0.05 %
+Active Liquidity (raw): 10598820712209150558
+Current Tick: 199749
+Sqrt Price X96: 1722528339820306143979483251624053
+Ethereum Block: 26382075
+Block Timestamp (UTC): 2026-11-10T04:19:59+00:00
